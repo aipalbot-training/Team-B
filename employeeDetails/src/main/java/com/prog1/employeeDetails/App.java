@@ -13,6 +13,7 @@ public class App
     {//Welcome to master branch or default branch
 		//added new comment
     	Employee e1 = new Employee();
+    	//new Employee()---this is constructor we are using to create new instance of object 
     	e1.setName("ram");
     	e1.setId(76);
     	e1.setSalary(8900.5);
